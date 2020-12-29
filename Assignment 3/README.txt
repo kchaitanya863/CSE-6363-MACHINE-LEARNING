@@ -1,0 +1,2 @@
+All files in folders are .ipynb files that are self contained and run on google colab (https://colab.research.google.com/).
+Each question downloads or generates the data set on it's own and no external files are requried if running on colab.

@@ -1,1 +1,0 @@
-import the q1.ipynb notebook on any ipython kernel or use Google colab (https://colab.research.google.com) which has all things pre-installed and runs on cloud.
